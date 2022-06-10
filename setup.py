@@ -12,4 +12,4 @@ setup(
 	author="Rahul Mistri",
 	author_email="rahulmistri1997@gmail.com",
 	packages=find_packages(),
-	)
+)
